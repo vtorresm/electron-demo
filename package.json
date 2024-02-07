@@ -1,0 +1,26 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "demo electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtorresm/electron-demo.git"
+  },
+  "keywords": [
+    "electron",
+    "nodejs"
+  ],
+  "author": "Victor Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vtorresm/electron-demo/issues"
+  },
+  "homepage": "https://github.com/vtorresm/electron-demo#readme",
+  "devDependencies": {
+    "electron": "^28.2.2"
+  }
+}
